@@ -21,8 +21,8 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # Carla
-
-
+assert naughty_or_nice(6,12) #even though the student has 12 demerits, all sixth formers are nice 
+assert not home_for_the_holidays("Joe") #because the name is less than 5 letters
 
 # Clara
 
